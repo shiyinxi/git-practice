@@ -3,7 +3,7 @@ def max_value(numbers):
         in the list.
     """
     print("hello, is there merge conflict?")
-    pass
+    return max(numbers)
 
 
 if __name__ == "__main__":
