@@ -3,7 +3,7 @@ def max_value(numbers):
         in the list.
     
     #This is Lorraine's solution
-    pass
+    return max(numbers)
 
 
 if __name__ == "__main__":
