@@ -4,7 +4,10 @@ def max_value(numbers):
     """
     
     #This is Lorraine's solution
+    print("accept this!")
+    print("reject this one")
     return max(numbers)
+
 
 
 
