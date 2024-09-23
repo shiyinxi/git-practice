@@ -5,7 +5,10 @@ def max_value(numbers):
     
     #This is Lorraine's solution
     print("hello, is there merge conflict?")
+    print("dont accept this change!")
+    print("dont accept this change!")
     return max(numbers)
+
 
 
 if __name__ == "__main__":
