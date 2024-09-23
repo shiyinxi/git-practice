@@ -4,6 +4,7 @@ def max_value(numbers):
     """
     
     #This is Lorraine's solution
+    print("ignore this change?")
     print("accept this!")
     print("reject this one")
     return max(numbers)
